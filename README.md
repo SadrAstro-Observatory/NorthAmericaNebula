@@ -10,9 +10,9 @@ This data is licensed under the creative commons license. Enjoy!
 Please tag us on social media or link our observatory if you share your image on Astrobin! ClearSkies!!
 
 Astrobin:
-Search for "SadrAstro" observatory when submitting your image for the observatory/location and it will link to us.
+* Search for "SadrAstro" observatory when submitting your image for the observatory/location and it will link to us.
 
 Social Media:
-https://bsky.app/profile/sadrastro.com
-https://www.instagram.com/sadrastroobservatory/
-https://www.facebook.com/SadrAstroObservatory
+* https://bsky.app/profile/sadrastro.com
+* https://www.instagram.com/sadrastroobservatory/
+* https://www.facebook.com/SadrAstroObservatory
